@@ -73,12 +73,12 @@ Elige una opción:
 
 ## Flujo de uso:
 
--Eliges la opción 1 para hacer una conversión.
--Ingresas la moneda de origen (ej: USD).
--Ingresas la moneda de destino (ej: CLP).
--Ingresas la cantidad.
--El programa consulta la API y muestra el resultado.
--Luego puedes elegir entre: realizar otra conversión, ver el historial o salir.
+- Eliges la opción 1 para hacer una conversión.
+- Ingresas la moneda de origen (ej: USD).
+- Ingresas la moneda de destino (ej: CLP).
+- Ingresas la cantidad.
+- El programa consulta la API y muestra el resultado.
+- Luego puedes elegir entre: realizar otra conversión, ver el historial o salir.
 
 ## ✅ Monedas disponibles
 
