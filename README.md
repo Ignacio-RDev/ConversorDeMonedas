@@ -109,8 +109,8 @@ Puedes ampliar el sistema para que guarde el historial en un archivo o base de d
 
 
 ## 🧑 Autor
-Desarrollado por Ignacio Rodríguez
-Estudiante de Ingeniería en Informática - Duoc UC 🇨🇱
+Desarrollado por Ignacio Rodríguez Durán.
+Estudiante de Ingeniería en Informática, Chile 🇨🇱
 
 
 
