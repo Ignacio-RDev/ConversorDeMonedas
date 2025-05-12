@@ -56,6 +56,7 @@ Puedes descargar el JAR manualmente desde:
 https://mvnrepository.com/artifact/org.json/json
 
 ## 4. Ejecuta el programa
+Puedes ejecutar desde cualquier entorno de desarrollo Java.
 
 ## 📋 Menú de opciones
 Al ejecutar el programa verás el siguiente menú:
