@@ -36,7 +36,7 @@ Se utiliza la API de [ExchangeRate-API](https://www.exchangerate-api.com/), la c
 - Formato de respuesta: JSON
 - Ejemplo de URL solicitada: https://v6.exchangerate-api.com/v6/1cb8b4ba2039a9e89ac4e2a2/latest/USD
 
-  
+--- 
 ⚠️ **Importante:** Este proyecto utiliza una API key de ejemplo incluida directamente en el código. Para uso en producción se recomienda registrar una clave propia.
 ---
 ## 💻 Cómo usar este conversor paso a paso
