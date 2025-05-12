@@ -56,11 +56,6 @@ Puedes descargar el JAR manualmente desde:
 https://mvnrepository.com/artifact/org.json/json
 
 ## 4. Ejecuta el programa
-Puedes ejecutar la clase ConversorMonedas.java directamente desde tu IDE o desde la terminal:
-```
-java ConversorMonedas.java
-java conversormonedas.ConversorMonedas
- ```
 
 ## 📋 Menú de opciones
 Al ejecutar el programa verás el siguiente menú:
