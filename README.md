@@ -56,7 +56,7 @@ https://mvnrepository.com/artifact/org.json/json
 ## 4. Ejecuta el programa
 Puedes ejecutar la clase ConversorMonedas.java directamente desde tu IDE o desde la terminal:
 ```
-javac ConversorMonedas.java
+java ConversorMonedas.java
 java conversormonedas.ConversorMonedas
  ```
 
