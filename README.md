@@ -98,11 +98,7 @@ El programa incluye validaciones para:
 - Cantidades no numéricas → CantidadInvalidaException
 - Problemas con la API → TasaDeCambioException
 
-## 🗂 Historial de conversiones
-
-Cada vez que se realiza una conversión exitosa, se guarda en una lista en memoria. Puedes consultar este historial desde el menú principal o después de una conversión.
-
-## 📌 Notas finales
+## 📌 Consideraciones finales
 
 Este programa es educativo y no debe utilizarse para propósitos financieros reales.
 La API utilizada tiene límites de uso por día. Si se excede, puede fallar la obtención de datos.
