@@ -70,7 +70,7 @@ Al ejecutar el programa verás el siguiente menú:
 2. Ver historial de conversiones
 3. Salir
 Elige una opción:
----------------------------------------
+
 ## Flujo de uso:
 
 Eliges la opción 1 para hacer una conversión.
