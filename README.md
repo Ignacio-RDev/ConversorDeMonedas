@@ -39,6 +39,8 @@ Se utiliza la API de [ExchangeRate-API](https://www.exchangerate-api.com/), la c
 --- 
 ⚠️ **Importante:** Este proyecto utiliza una API key de ejemplo incluida directamente en el código. Para uso en producción se recomienda registrar una clave propia.
 ---
+
+---
 ## 💻 Cómo usar este conversor paso a paso
 
 ### 1. Clona el repositorio
